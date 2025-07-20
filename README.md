@@ -129,5 +129,7 @@ NoMoreChurn-Telco-Risk-Intelligence/
 👤 Author & Contact
 
 Name: Gourisankar Maity
+
 Email: maitygourisankar0@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/gourisankar-maity-73a5492aa
